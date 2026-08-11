@@ -66,3 +66,10 @@
 ---
 
 *本專案由 [屏東縣後庄國小黃朝榮老師](https://padlet.com/clongwh/puti_ai_tools) 免費分享，歡迎擴散推廣！*
+
+---
+
+## 💖 特別致謝
+
+本專案在開發與改進過程中，特別參考並借鑒了 **三師爸** 的優秀開源專案 [clasp-gas-skill](https://github.com/mathruffian-dot/clasp-gas-skill)，吸取了其中關於 clasp v3 指令相容、防止網址拼接出錯、退場機制與個資防護等先進的 AI 技能設計原則。在此致敬並感謝其對開源社群的貢獻！
+

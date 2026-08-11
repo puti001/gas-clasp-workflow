@@ -74,3 +74,10 @@
      ```
      這時 `clasp` **真的會自動在你的 Google 雲端硬碟建立一個全新、名為「專案名稱」的 Google 試算表**，並且自動把這個 GAS 專案綁定在該試算表底下！
   3. **程式碼動態建立**：如果程式本身寫了 `SpreadsheetApp.create("資料表名稱")`，那當程式執行時，雲端就會自動生出試算表。
+
+---
+
+> 💖 **開源致謝**
+> 
+> 本專案由 [屏東縣後庄國小黃朝榮老師](https://padlet.com/clongwh/puti_ai_tools) 免費分享。特別感謝並致敬 **三師爸** 的 [clasp-gas-skill](https://github.com/mathruffian-dot/clasp-gas-skill) 專案。本專案在功能改進與安全原則上深受其啟發，並參考了其優秀的 clasp v3 指令相容、防止網址拼接出錯、退場機制與個資防護等原則。
+
