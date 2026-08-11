@@ -2,6 +2,9 @@
 
 這是一個專為 AI Agent（如 Antigravity / Opencode / Gemini 等）設計的**自訂技能與規則包**。
 
+> 💡 **你是剛接觸 AI Agent 的初學者小白嗎？**
+> 請直接點選閱讀 👉 [**🤖 小白專用：如何指揮你的 AI 學習此技能指南**](./AGENT_GUIDE.md)
+
 安裝後，AI Agent 將會學會使用 Google 官方的 `clasp` 工具，並在開發 Google Apps Script (GAS) 專案時，於本地修改代碼後**自動將程式碼 push 到雲端**，免去你手動複製貼上前硬體端與後端代碼的痛苦。
 
 ---
