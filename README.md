@@ -1,6 +1,6 @@
 # Antigravity GAS Clasp 自動化開發技能包
 
-這是一個專為 AI Agent（如 Antigravity / Opencode / Gemini 等）設計的**自訂技能與規則包**。
+這是一個專為 AI Agent（如 Claude Code / OpenAI Codex / Antigravity / Opencode 等）設計的**自訂技能與規則包**。
 
 > 💡 **你是剛接觸 AI Agent 的初學者小白嗎？**
 > 請直接點選閱讀 👉 [**🤖 小白專用：如何指揮你的 AI 學習此技能指南**](./AGENT_GUIDE.md)

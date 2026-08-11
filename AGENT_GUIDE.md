@@ -1,6 +1,6 @@
 # 🤖 小白必看：如何指揮你的 AI 學習這個 GAS 同步技能？
 
-如果你是剛接觸 AI Agent（如 Cursor, Windsurf, Antigravity 等）的初學者，不知道該怎麼讓你的 AI 學會這個「修改完 GAS 程式碼自動同步，免複製貼上」的神技，請跟著以下步驟做！
+如果你是剛接觸 AI Agent（如 Claude Code, OpenAI Codex, Antigravity, Opencode 等）的初學者，不知道該怎麼讓你的 AI 學會這個「修改完 GAS 程式碼自動同步，免複製貼上」的神技，請跟著以下步驟做！
 
 ---
 
@@ -10,7 +10,7 @@
 
 現在的 AI Agent 非常聰明，只要你提供網址，它就能自己上網讀取技能。
 
-用你的 AI 編輯器（如 Cursor, Windsurf, Antigravity）開啟你的開發專案後，直接在對話框**複製貼上這段話**給它：
+用你的 AI 編輯器（如 Claude Code, OpenAI Codex, Antigravity, Opencode）開啟你的開發專案後，直接在對話框**複製貼上這段話**給它：
 
 > 💬 **給 AI 的指令（直接複製）**：
 > 「請你上網讀取這個網址：`https://github.com/puti001/gas-clasp-workflow`。
