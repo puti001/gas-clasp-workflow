@@ -13,9 +13,9 @@
 用你的 AI 編輯器（如 Cursor, Windsurf, Antigravity）開啟你的開發專案後，直接在對話框**複製貼上這段話**給它：
 
 > 💬 **給 AI 的指令（直接複製）**：
-> 「這是我開發 Google Apps Script 的專案。請你上網讀取這個網址：`https://github.com/puti001/gas-clasp-workflow`。
+> 「請你上網讀取這個網址：`https://github.com/puti001/gas-clasp-workflow`。
 > 
-> 學習裡面關於使用 `clasp` 工具進行自動同步開發的 **Skill** 與 **Rule**。載入後，只要你在本地修改或新增了任何代碼（包括前端 .html 或後端 .js 檔案），修改完請自動在終端機執行 `npx @google/clasp push` 同步至雲端，免去我手動複製貼上。請回覆我『我已理解並上網載入此技能』。」
+> 學習裡面關於使用 `clasp` 工具進行自動同步開發的 **Skill** 與 **Rule**。**未來只要我進行 Google Apps Script (GAS) 開發**，一旦你在本地修改或新增了任何代碼（包括前端 .html 或後端 .js 檔案），修改完請自動在終端機執行 `npx @google/clasp push` 同步至雲端，免去我手動複製貼上。請回覆我『我已理解此技能，隨時準備好進行 GAS 開發』。」
 
 ---
 
